@@ -1,4 +1,16 @@
-# Hosts to block in pihole
+# Title: Simian's custom block list
+
+#
+# Date: 08 February 2024 22:51:18 (UTC)
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/JSimian/random-things/main/pihole-list
+#
+# ===============================================================
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
 0.0.0.0 afs.googlesyndication.com
 0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 hotjar.com

@@ -10,3 +10,4 @@
 0.0.0.0 (\.|^)bugsnag\.com$
 0.0.0.0 (\.|^)sentry-cdn\.com$
 0.0.0.0 (\.|^)getsentry\.com$
+0.0.0.0 (\.|^)pangle\.io$

@@ -32,7 +32,7 @@ ff02::3 ip6-allhosts
 # Title: Hosts contributed by Steven Black
 # http://stevenblack.com
 
-(\.|^)terra\.com\.br$
+0.0.0.0 ^terra\.com\.br$
 0.0.0.0 ck.getcookiestxt.com
 0.0.0.0 afs.googlesyndication.com
 0.0.0.0 advertising-api-eu.amazon.com

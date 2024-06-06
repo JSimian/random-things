@@ -56,13 +56,12 @@ ff02::3 ip6-allhosts
 0.0.0.0 img-static.tech
 0.0.0.0 youngle.tech
 0.0.0.0 liftoff-creatives.io
-0.0.0.0 terra.com.br
+0.0.0.0 (\.|^)terra\.com\.br$
 0.0.0.0 svr-algorix.com
 0.0.0.0 pubnative.net
 0.0.0.0 toponad.com
 0.0.0.0 rtblab.net
 0.0.0.0 ibyteimg.com
-0.0.0.0 terra.com.br
 0.0.0.0 mobsurl.com
 0.0.0.0 mtgglobals.com
 0.0.0.0 mob.com
